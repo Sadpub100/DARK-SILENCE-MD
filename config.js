@@ -42,7 +42,7 @@ module.exports = {
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250505-WA0055.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "HI I'M Cheikh your assistant bot 🥷",
-    ANTI_LINK: process.env.ANTI_LINK || "true",
+    ANTI_LINK: process.env.ANTI_LINK || "false",
     ANTI_CALL: process.env.ANTI_CALL || "true",
     BAD_NUMBER_BLOCKER: process.env.BAD_NUMBER_BLOCKER || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
