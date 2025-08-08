@@ -31,7 +31,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~XQt1WQAQ#_n7ZiOOsfR4Yet85YohKAXKDE0Uakatjb2Yg9HRVNoU",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~rAtWAJoB#b5btS36Tqv4Tl7UIt5kEoMRVJdSJbmX9psyv9IwM-aE",
     CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
@@ -53,7 +53,7 @@ module.exports = {
     CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     HEART_REACT: process.env.HEART_REACT || "false",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "923096287432",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "2250584916362",
     OWNER_NAME: process.env.OWNER_NAME || "Lugh Thuata de",
     READ_CMD: process.env.READ_CMD || "true",
     BOT_NAME: process.env.BOT_NAME || "➺SAD-SILENCE-MD",
